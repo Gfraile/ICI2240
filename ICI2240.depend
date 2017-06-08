@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1496934252 source:c:\users\ignac_000\desktop\proyecto ici2240\ici2240\hash.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1496723885 c:\users\ignac_000\desktop\proyecto ici2240\ici2240\hash.h
+
+1496544537 source:c:\users\ignac_000\desktop\proyecto ici2240\ici2240\list.c
+	"List.h"
+	<stdio.h>
+	<stdlib.h>
+
+1496690139 c:\users\ignac_000\desktop\proyecto ici2240\ici2240\list.h
+
+1496723888 source:c:\users\ignac_000\desktop\proyecto ici2240\ici2240\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Asignaturas.h"
+
+1496721797 c:\users\ignac_000\desktop\proyecto ici2240\ici2240\asignaturas.h
+	"Hash.h"
+	"List.h"
+
+1496934746 source:c:\users\ignac_000\desktop\proyecto ici2240\ici2240\asignaturas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	"Asignaturas.h"
+	"hash.h"
+	"List.h"
+	<math.h>
+
